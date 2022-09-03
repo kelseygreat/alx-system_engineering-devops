@@ -5,4 +5,5 @@ ls -l: Display current directory contents in a long format.
 ls -la: Display current directory contents, including hidden files (starting with .). Use the long format
 ls -na: Display current directory contents.Long format, with user and group IDs displayed numerically.
 mkdir: Create a script that creates a director
-mv: Moves files or directories from one location to another.
+mv: Moves files or directories from one location to another
+rm: removes a file from the specified directory.
