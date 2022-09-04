@@ -10,3 +10,4 @@ rm: removes a file from the specified directory.
 rmdir: removes a specified director
 cd -: changes the working directory to the previous one
 ls -la . .. /boot: list files(hidden and more) in current directory, previous directory and /boot directory
+file: prints the type of the filey
