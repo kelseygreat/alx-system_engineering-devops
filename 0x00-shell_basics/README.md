@@ -1,13 +1,14 @@
-pwd: Prints the absolute path name of the current working directory
-ls: Display the content lists of the current working directoriy.
-cd: changes the working directory to the user’s home directory
-ls -l: Display current directory contents in a long format.
-ls -la: Display current directory contents, including hidden files (starting with .). Use the long format
-ls -na: Display current directory contents.Long format, with user and group IDs displayed numerically.
-mkdir: Create a script that creates a director
-mv: Moves files or directories from one location to another
-rm: removes a file from the specified directory.
-rmdir: removes a specified director
-cd -: changes the working directory to the previous one
-ls -la . .. /boot: list files(hidden and more) in current directory, previous directory and /boot directory
-file: prints the type of the filey
+pwd: Prints the absolute path name of the current working directory "<br />"
+ls: Display the content lists of the current working directoriy. "<br />"
+cd: changes the working directory to the user’s home directory "<br />"
+ls -l: Display current directory contents in a long format. "<br />"
+ls -la: Display current directory contents, including hidden files (starting with .). Use the long format "<br />"
+ls -na: Display current directory contents.Long format, with user and group IDs displayed numerically."<br />"
+mkdir: Create a script that creates a director"<br />"
+mv: Moves files or directories from one location to another "<br />"
+rm: removes a file from the specified directory."<br />"
+rmdir: removes a specified director "<br />"
+cd -: changes the working directory to the previous one "<br />"
+ls -la . .. /boot: list files(hidden and more) in current directory, previous directory and /boot directory "<br />" 
+file: prints the type of the file "<br />"
+ln -s __ls__ /bin/ls: Create a symbolic link to /bin/ls, named __ls__ "<br />"
