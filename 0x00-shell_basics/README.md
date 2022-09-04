@@ -8,4 +8,4 @@ mkdir: Create a script that creates a director
 mv: Moves files or directories from one location to another
 rm: removes a file from the specified directory.
 rmdir: removes a specified director
-cd ..: changes the working directory to the previous oney
+cd -: changes the working directory to the previous oney
