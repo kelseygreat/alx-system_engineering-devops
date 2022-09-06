@@ -14,4 +14,5 @@ file: prints the type of the file "<br />"
 ln -s /bin/ls __ls__: Create a symbolic link to /bin/ls, named __ls__ "<br />"
 cp -r *.html . .. copies all html files in the current folder to the parent. "<br />"
 mv [[:upper:]]* /tmp/u moves all files starting with uppercase to the specified directory /tmp/u "<br />"
-rm *~ removes all files ending in ~ (tilde)* 
+rm *~ removes all files ending in ~ (tilde)* "<br />" 
+mkdir -p welcome/{to,to/school} creates a welcome folder, then to folder in welcome and school in to subdirectory.
