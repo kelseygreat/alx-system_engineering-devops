@@ -16,3 +16,4 @@ cp -r *.html . .. copies all html files in the current folder to the parent. "<b
 mv [[:upper:]]* /tmp/u moves all files starting with uppercase to the specified directory /tmp/u "<br />"
 rm *~ removes all files ending in ~ (tilde)* "<br />" 
 mkdir -p welcome/{to,to/school} creates a welcome folder, then to folder in welcome and school in to subdirectory.
+
