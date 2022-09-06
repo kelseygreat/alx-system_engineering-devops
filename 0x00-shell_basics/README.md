@@ -13,4 +13,5 @@ ls -la . .. /boot: list files(hidden and more) in current directory, previous di
 file: prints the type of the file "<br />"
 ln -s /bin/ls __ls__: Create a symbolic link to /bin/ls, named __ls__ "<br />"
 cp -r *.html . .. copies all html files in the current folder to the parent. "<br />"
-mv *[[:upper:]]* /tmp/u moves all files starting with uppercase to the specified directory /tmp/u "<br />" 
+mv [[:upper:]]* /tmp/u moves all files starting with uppercase to the specified directory /tmp/u "<br />"
+rm *~ removes all files ending in ~ (tilde)* 
